@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nocturnalcodes!
-- 👀 I’m interested in ... front end web development 
-- 🌱 I’m currently learning ... how to use my knowledgde of HTML, CSS, and Javascript and create well-composed websites...i am also interested in creating some mini-games!
-- 💞️ I’m looking to collaborate on ... responsive websites and games
+- 👀 I’m interested in ... front end web development.
+- 🌱 I’m currently learning ... HTML, CSS, and Javascript to create functional websites. I am also interested in creating some mini-games!
+- 💞️ I’m looking to collaborate on ... websites and games!
 - 📫 How to reach me ... mbragg@gmail.com
 Thanks for stopping by! 
 <!---
